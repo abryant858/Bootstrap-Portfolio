@@ -1,0 +1,29 @@
+body{
+    background: url(https://www.toptal.com/designers/subtlepatterns/patterns/prism.png);
+    margin-bottom: 120px;
+}
+.content-box {
+    background: #ffffff;
+}
+.pd-lf {
+    padding-left: 125px;
+}
+/*Padding on Contact Page*/
+.cpd-lf {
+    padding-left: 15px;
+}
+.mgn-tp {
+    margin-top: 20px;
+}
+.mgn-bt {
+    margin-bottom: 20px;
+}
+img {
+    margin-right: 15px;
+    width: 200px;
+    height: auto;
+}
+nav {
+    border-top: 8px solid #107bfd;
+    height: 60px;
+}
